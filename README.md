@@ -21,5 +21,6 @@ some of them are listed below :
 
 > Name your folder/repository as `<item_name>` without `<>`.
 
+> Only HTML and CSS files are allowed.
 
 ### If you have any confusion feel free to reach our community.
