@@ -19,8 +19,12 @@ some of them are listed below :
 ## Code of Conduct
 > Please design your own items and then make a valid PR.
 
+> Bootstraps elements are not allowed.
+
 > Name your folder/repository as `<item_name>` without `<>`.
 
 > Only HTML and CSS files are allowed.
 
-### If you have any confusion feel free to reach our community.
+### If you have any issues feel free to let us know.
+
+contributed by - <a href="https://github.com/helper-uttam/">Uttam</a>
