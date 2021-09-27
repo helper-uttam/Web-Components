@@ -21,7 +21,8 @@ some of them are listed below :
 
 > Bootstraps elements are not allowed.
 
-> Name your folder/repository as `<item_name>` without `<>`.
+> Name your folder/repository as `<item_name>` without `<>` along with your username in square brackets.
+>  * Example: Footer[helper-uttam]
 
 > Only HTML and CSS files are allowed.
 
