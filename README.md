@@ -1,4 +1,4 @@
-# Elements for Website
+# Components for Website
 
 Hello Folks 🙌
 Looking for some repository to contribute with your **Web Development Skills**?
