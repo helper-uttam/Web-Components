@@ -26,6 +26,15 @@ some of them are listed below :
 
 > Only HTML and CSS files are allowed.
 
+# How to Contribute?
+* Fork this repository. (This will create a copy of this repo to your side)
+* Upload your directory or Folder inside the repo. (One had been done for you)
+* Commit with appropriate messages. (Eg- Adding navbar files)
+* Make Pull request.
+
+🙌🎉🎉 wohoooo, you made a awesome contribution. 🎉🎉
+
+
 ### If you have any issues feel free to let us know.
 
 contributed by - <a href="https://github.com/helper-uttam/">Uttam</a>
