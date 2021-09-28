@@ -33,7 +33,7 @@ some of them are listed below :
 * Make Pull request.
 
 🙌🎉🎉 wohoooo, you made a awesome contribution. 🎉🎉
-
+ If you loved to contribute here, please give it a star 🥶
 
 ### If you have any issues feel free to let us know.
 
