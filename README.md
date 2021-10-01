@@ -5,8 +5,6 @@ Looking for some repository to contribute with your **Web Development Skills**?
 
 Then you are most welcome to this repository❤
 
-> Note- Making a Pull Request to this repository will get you a count in your **hacktoberfest2021**🎉
-
 
 ## Ideas to Contribute
 There can be numerous number of things that will be considered as valid PR (pull request), 
