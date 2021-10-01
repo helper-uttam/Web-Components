@@ -13,6 +13,7 @@ some of them are listed below :
 - Navbar
 - Header
 - Footer
+- Forms
 
 ## Code of Conduct
 > Please design your own items and then make a valid PR.
