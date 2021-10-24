@@ -1,7 +1,7 @@
 # Components for Website
 
 Hello Folks 🙌
-Looking for some repository to contribute with your **Web Development Skills**?
+Are Looking for some repository to contribute with your **Web Development Skills** that should be counted in `Hacktoberfest21`?
 
 Then you are most welcome to this repository❤
 
