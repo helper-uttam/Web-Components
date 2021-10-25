@@ -1,0 +1,122 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-family: 'Roboto', 'Helvetica', 'Arial', 'sans-serif';
+    font-size: 16px;
+    font-style: normal;
+    font-variant: normal;
+    color:#f5c518;
+}
+a{
+    color:inherit;
+    text-decoration:inherit;
+}
+body{
+    background-color: rgba(0, 0, 0, 1);
+    display: grid;
+}
+::placeholder { 
+    font-family:'Montserrat';
+    font-size: 18px;
+    color: #f5c518;
+    opacity: 1; 
+  }
+.container{
+    margin-top:5px;
+}
+img{
+    max-width:100%;
+    padding-left:10px;
+    height:40px;
+}
+.header {
+    display: flex;
+ 
+}
+.a_element{
+    font-family: 'Montserrat';
+    padding-left:25px;
+}
+.s1{
+   position: absolute;
+   right:10.5%;
+}
+
+.s2{
+    position: absolute;
+    right:2.5%;
+ }
+.logo{
+     padding:20px;
+     padding-left:55px;
+ }
+.element{
+padding: 20px;
+}
+.a_element:hover{
+    font-weight: bold;
+    font-size:1.1rem;
+    text-decoration: none;
+    background: #f5c518;
+    padding: 10px 15px;
+    border-radius: 5px;
+    transition: all 0.2s ease-in-out;
+    color:#f5c518;
+    color: rgba(255, 255, 255, 1);
+    box-shadow: 0 5px 15px rgba(205, 200, 209, 0.4);
+}
+.box{
+    position:absolute;
+    top: 34px;
+    left: 48.9%;
+    transform: translate(-50%,-50%);
+
+}
+
+.input {
+    padding: 25px;
+    width: 500px;
+    height: 50px;
+    background: none;
+    border: 3px solid #f5c518;
+    border-radius: 30px;
+    box-sizing: border-box;
+    font-family: 'Montserrat';
+    font-size: 26px;
+    color: #f5c518;
+    outline: none;
+    transition: .7s;
+}
+.box:hover input{
+    width: 750px;
+    background: #272133;
+    border-radius: 10px;
+}
+i{
+    position: absolute;
+    top: 50%;
+    left: 40px;
+    transform: translate(-50%,-50%);
+    font-size: 14px;
+    color: #f6c800;
+    transition: .2s;
+}
+.box:hover i{
+    opacity: 0;
+    z-index: -1;
+}
+.arrange{
+    display:flex;
+    flex-wrap: wrap;
+}
+#bottom{
+    position:absolute;
+    bottom:0;
+    width:100%;
+    text-align: center;
+    color:#f6c800;
+    padding: 15px 0px;
+}
+.linkedin{
+    background-image: url("IMG/linkedin.png");
+}
