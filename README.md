@@ -36,4 +36,4 @@ some of them are listed below :
 
 ### If you have any issues feel free to let us know.
 
-contributed by - <a href="https://github.com/helper-uttam/">Uttam</a>
+Managed By - <a href="https://github.com/helper-uttam/">Uttam</a>
