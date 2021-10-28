@@ -1,12 +1,12 @@
-# Components for Website
+# Components for Website 💻
 
-Hello Folks 🙌
-Looking for some repository to contribute with your **Web Development Skills**?
+### Hello Folks! 🙌
+Looking for some repository to contribute with your **Web Development Skills**, and also one that is elegible for Hacktoberfest?
 
-Then you are most welcome to this repository❤
+**Then you are most welcome to this repository. ❤**
 
 
-## Ideas to Contribute
+## Ideas to Contribute:
 There can be numerous number of things that will be considered as valid PR (pull request), 
 some of them are listed below :
 
@@ -15,10 +15,10 @@ some of them are listed below :
 - Footer
 - Forms
 
-## Code of Conduct
+## Code of Conduct 🤝:
 > Please design your own items and then make a valid PR.
 
-> Bootstraps elements are not allowed.
+> **Bootstraps elements are not allowed.**
 
 > Name your folder/repository as `<item_name>` without `<>` along with your username in square brackets.
 >  * Example: Footer[helper-uttam]
@@ -31,8 +31,9 @@ some of them are listed below :
 * Commit with appropriate messages. (Eg- Adding navbar files)
 * Make Pull request.
 
-🙌🎉🎉 wohoooo, you made a awesome contribution. 🎉🎉
- If you loved to contribute here, please give it a star 🥶
+## 🎉🎉 WooHoo! You made an awesome contribution. 🎉🎉
+
+### If you loved to contribute here, please give it a star 🥶
  
  ## Swags of Hacktoberfest:
 - Many of the candidates get attracted towards hacktoberfest to get swags . So, after 4 successfully merged pull request as for 2021 you will be eligible to get a Hacktoberfest T-shirt and Some stickers on your doorstep.
